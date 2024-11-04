@@ -5,9 +5,7 @@ I am passionate about coding and adept in managing databases. I theive on solvin
 BS Information Technology
 
 New Era University
-
 2023-Present
-
 
 <h2>Certifications<h2>
 <a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
