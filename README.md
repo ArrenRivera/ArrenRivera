@@ -6,7 +6,7 @@ I am passionate about coding and adept in managing databases. I theive on solvin
 <p>New Era University</p>
 <p>2023-Present</p>
 <h2>Certifications<h2>
-SQL and Relational Databases 101   https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d
+<a href="(https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d)">SQL and Relational Databases 101</a>
 Skill Sets
 Programming: Java, JavaScript
 Databases: IBM DB2 Cloud
