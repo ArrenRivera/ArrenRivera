@@ -7,7 +7,7 @@ New Era University
 2023-Present
 
 <h2>Certifications<h2>
-<a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
+<a ="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
 
 <h2>Skill Sets</h2>
 Programming: Java, JavaScript
