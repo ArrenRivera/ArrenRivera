@@ -1,15 +1,19 @@
 <h1>Hi there, I'm Arren Rivera! 👋</h1>
-I am passionate about coding and adept in managing databases. I theive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
+<p>I am passionate about coding and skilled in managing databases. I thrive on solving complex problems and creating elegant solutions. My journey in technology began with my studies in the BS Information Technology program.</p>
+
 <h2>Education</h2>
-<p>BS Information Technology
-New Era University
-2023-Present </p>
-<h2>Certifications<h2>
-<p><a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a></p>
+<p><strong>BS Information Technology</strong><br>
+New Era University<br>
+2023-Present</p>
+
+<h2>Certifications</h2>
+<p><a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank">SQL and Relational Databases 101</a></p>
+
 <h2>Skill Sets</h2>
-Programming: Java, JavaScript
-Databases: IBM DB2 Cloud
-Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML
-Let's Connect!
-Linkedin: LinkedIn Profile
-Email: arrenjayrivera.prsnl@gmail.com     
+<p><strong>Programming:</strong> Java, JavaScript<br>
+<strong>Databases:</strong> IBM DB2 Cloud<br>
+<strong>Tools:</strong> Lucidchart, Jaspersoft Studio, Eclipse, HTML</p>
+
+<h2>Let's Connect!</h2>
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a><br>
+<strong>Email:</strong> arrenjayrivera.prsnl@gmail.com</p>
