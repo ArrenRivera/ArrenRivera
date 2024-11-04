@@ -2,12 +2,12 @@
 I am passionate about coding and adept in managing databases. I theive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
 
 <h2>Education</h2>
-BS Information Technology
+<p>BS Information Technology
 New Era University
-2023-Present
+2023-Present </p>
 
 <h2>Certifications<h2>
-<a ="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
+<a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
 
 <h2>Skill Sets</h2>
 Programming: Java, JavaScript
