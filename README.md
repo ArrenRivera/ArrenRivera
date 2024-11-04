@@ -6,6 +6,7 @@ New Era University
 2023-Present </p>
 <h2>Certifications<h2>
 <a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d">SQL and Relational Databases 101</a>
+  [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d)
 <h2>Skill Sets</h2>
 Programming: Java, JavaScript
 Databases: IBM DB2 Cloud
