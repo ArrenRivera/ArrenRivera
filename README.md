@@ -15,5 +15,5 @@ New Era University<br>
 <strong>Tools:</strong> Lucidchart, Jaspersoft Studio, Eclipse, HTML</p>
 
 <h2>Let's Connect!</h2>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a><br>
+<p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/arren-jay-rivera-53993228b" target="_blank">LinkedIn Profile</a><br>
 <strong>Email:</strong> arrenjayrivera.prsnl@gmail.com</p>
