@@ -3,7 +3,9 @@ I am passionate about coding and adept in managing databases. I theive on solvin
 
 <h2>Education</h2>
 BS Information Technology
+
 New Era University
+
 2023-Present
 
 <h2>Certifications<h2>
