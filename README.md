@@ -8,8 +8,14 @@
 &nbsp;&nbsp;&nbsp;2023-Present</p>
 
 <h2>📜 Certifications</h2>
-<p>• <a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank">SQL and Relational Databases 101</a></p>
-<p>• <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B139CCA9068817D0574FA5F76D1F018C6">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></p>
+
+<p><strong>SQL and Relational Databases 101</strong><br>
+Completed the *SQL and Relational Databases 101* course, enhancing my skills in SQL and relational database management.<br>
+<a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank">View Certificate</a></p>
+
+<p><strong>Oracle Cloud Infrastructure 2024 Certified Foundations Associate</strong><br>
+Earned the *Oracle Cloud Infrastructure 2024 Certified Foundations Associate* certification, validating my knowledge in cloud infrastructure and Oracle Cloud services.<br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B139CCA9068817D0574FA5F76D1F018C6" target="_blank">View Badge</a></p>
 
 
 <h2>💻 Skill Sets</h2>
