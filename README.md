@@ -8,27 +8,8 @@
 &nbsp;&nbsp;&nbsp;2023-Present</p>
 
 <h2>📜 Certifications</h2>
-
-<div style="border: 2px solid #0073e6; padding: 20px; border-radius: 8px; background-color: #f7f7f7; width: 80%; margin: 20px auto;">
-    <h3 style="text-align: center; color: #0073e6;">My Certifications</h3>
-    <table style="width: 100%; border-collapse: collapse; text-align: left; margin-top: 10px;">
-        <tr style="background-color: #f1f1f1;">
-            <th style="padding: 12px; border: 1px solid #ddd;">Certification</th>
-            <th style="padding: 12px; border: 1px solid #ddd;">Issued By</th>
-            <th style="padding: 12px; border: 1px solid #ddd;">Link</th>
-        </tr>
-        <tr>
-            <td style="padding: 10px; border: 1px solid #ddd;">SQL and Relational Databases 101</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Cognitive Class</td>
-            <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank" style="color: #0073e6; text-decoration: none;">View Certificate</a></td>
-        </tr>
-        <tr>
-            <td style="padding: 10px; border: 1px solid #ddd;">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Oracle</td>
-            <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B139CCA9068817D0574FA5F76D1F018C6" target="_blank" style="color: #0073e6; text-decoration: none;">View Badge</a></td>
-        </tr>
-    </table>
-</div>
+<p><a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank">SQL and Relational Databases 101</a></p>
+<p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B139CCA9068817D0574FA5F76D1F018C6">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></p>
 
 
 <h2>💻 Skill Sets</h2>
