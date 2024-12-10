@@ -10,6 +10,7 @@
 <h2>📜 Certifications</h2>
 <p><a href="https://courses.cognitiveclass.ai/certificates/9d7eda50302142768e4f0d41469d070d" target="_blank">SQL and Relational Databases 101</a></p>
 <p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B139CCA9068817D0574FA5F76D1F018C6">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></p>
+<p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FE623A60C91821C7060758ADE550626B2D038430A1A894E691D788E1615913CF#">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></p>
 
 <h2>💻 Skill Sets</h2>
 <p><strong>Programming Language:</strong> Java<br>
